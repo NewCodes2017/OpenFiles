@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+       <html>
+<title>TEMPLATE<7title>
+<head>THIS IS A FREE TEMPLATE</head>
+  <body>
+     <h1>HELLO</h1>
+<p>THIS IS A PARAGRAPH!</p>
+<ol>
+  <li>THIS
+  <li>IS
+    <li>A
+    <li>ORDNENED
+      <li>LIST
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
